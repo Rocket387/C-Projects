@@ -1,0 +1,15 @@
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net7.0/Final
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net7.0/Final.deps.json
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net7.0/Final.runtimeconfig.json
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net7.0/Final.dll
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net7.0/Final.pdb
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net7.0/Final.csproj.AssemblyReference.cache
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net7.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net7.0/Final.AssemblyInfoInputs.cache
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net7.0/Final.AssemblyInfo.cs
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net7.0/Final.csproj.CoreCompileInputs.cache
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net7.0/Final.dll
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net7.0/refint/Final.dll
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net7.0/Final.pdb
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net7.0/Final.genruntimeconfig.cache
+/Users/roccharl/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net7.0/ref/Final.dll

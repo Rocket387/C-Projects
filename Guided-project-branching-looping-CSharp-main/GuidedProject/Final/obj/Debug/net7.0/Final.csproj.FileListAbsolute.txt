@@ -1,0 +1,15 @@
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final.deps.json
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final.runtimeconfig.json
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final.dll
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final.pdb
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.csproj.AssemblyReference.cache
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.AssemblyInfoInputs.cache
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.AssemblyInfo.cs
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.csproj.CoreCompileInputs.cache
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.dll
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/refint/Final.dll
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.pdb
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.genruntimeconfig.cache
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/ref/Final.dll

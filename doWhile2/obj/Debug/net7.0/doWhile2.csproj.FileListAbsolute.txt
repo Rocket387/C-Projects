@@ -1,0 +1,15 @@
+/Users/roccharl/C#Projects/doWhile2/bin/Debug/net7.0/doWhile2
+/Users/roccharl/C#Projects/doWhile2/bin/Debug/net7.0/doWhile2.deps.json
+/Users/roccharl/C#Projects/doWhile2/bin/Debug/net7.0/doWhile2.runtimeconfig.json
+/Users/roccharl/C#Projects/doWhile2/bin/Debug/net7.0/doWhile2.dll
+/Users/roccharl/C#Projects/doWhile2/bin/Debug/net7.0/doWhile2.pdb
+/Users/roccharl/C#Projects/doWhile2/obj/Debug/net7.0/doWhile2.csproj.AssemblyReference.cache
+/Users/roccharl/C#Projects/doWhile2/obj/Debug/net7.0/doWhile2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roccharl/C#Projects/doWhile2/obj/Debug/net7.0/doWhile2.AssemblyInfoInputs.cache
+/Users/roccharl/C#Projects/doWhile2/obj/Debug/net7.0/doWhile2.AssemblyInfo.cs
+/Users/roccharl/C#Projects/doWhile2/obj/Debug/net7.0/doWhile2.csproj.CoreCompileInputs.cache
+/Users/roccharl/C#Projects/doWhile2/obj/Debug/net7.0/doWhile2.dll
+/Users/roccharl/C#Projects/doWhile2/obj/Debug/net7.0/refint/doWhile2.dll
+/Users/roccharl/C#Projects/doWhile2/obj/Debug/net7.0/doWhile2.pdb
+/Users/roccharl/C#Projects/doWhile2/obj/Debug/net7.0/doWhile2.genruntimeconfig.cache
+/Users/roccharl/C#Projects/doWhile2/obj/Debug/net7.0/ref/doWhile2.dll

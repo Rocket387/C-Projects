@@ -1,0 +1,15 @@
+/Users/roccharl/C#Projects/SwitchCaseBreak/bin/Debug/net7.0/SwitchCaseBreak
+/Users/roccharl/C#Projects/SwitchCaseBreak/bin/Debug/net7.0/SwitchCaseBreak.deps.json
+/Users/roccharl/C#Projects/SwitchCaseBreak/bin/Debug/net7.0/SwitchCaseBreak.runtimeconfig.json
+/Users/roccharl/C#Projects/SwitchCaseBreak/bin/Debug/net7.0/SwitchCaseBreak.dll
+/Users/roccharl/C#Projects/SwitchCaseBreak/bin/Debug/net7.0/SwitchCaseBreak.pdb
+/Users/roccharl/C#Projects/SwitchCaseBreak/obj/Debug/net7.0/SwitchCaseBreak.csproj.AssemblyReference.cache
+/Users/roccharl/C#Projects/SwitchCaseBreak/obj/Debug/net7.0/SwitchCaseBreak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roccharl/C#Projects/SwitchCaseBreak/obj/Debug/net7.0/SwitchCaseBreak.AssemblyInfoInputs.cache
+/Users/roccharl/C#Projects/SwitchCaseBreak/obj/Debug/net7.0/SwitchCaseBreak.AssemblyInfo.cs
+/Users/roccharl/C#Projects/SwitchCaseBreak/obj/Debug/net7.0/SwitchCaseBreak.csproj.CoreCompileInputs.cache
+/Users/roccharl/C#Projects/SwitchCaseBreak/obj/Debug/net7.0/SwitchCaseBreak.dll
+/Users/roccharl/C#Projects/SwitchCaseBreak/obj/Debug/net7.0/refint/SwitchCaseBreak.dll
+/Users/roccharl/C#Projects/SwitchCaseBreak/obj/Debug/net7.0/SwitchCaseBreak.pdb
+/Users/roccharl/C#Projects/SwitchCaseBreak/obj/Debug/net7.0/SwitchCaseBreak.genruntimeconfig.cache
+/Users/roccharl/C#Projects/SwitchCaseBreak/obj/Debug/net7.0/ref/SwitchCaseBreak.dll

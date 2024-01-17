@@ -1,0 +1,15 @@
+/Users/roccharl/C#Projects/doWhile3/bin/Debug/net7.0/doWhile3
+/Users/roccharl/C#Projects/doWhile3/bin/Debug/net7.0/doWhile3.deps.json
+/Users/roccharl/C#Projects/doWhile3/bin/Debug/net7.0/doWhile3.runtimeconfig.json
+/Users/roccharl/C#Projects/doWhile3/bin/Debug/net7.0/doWhile3.dll
+/Users/roccharl/C#Projects/doWhile3/bin/Debug/net7.0/doWhile3.pdb
+/Users/roccharl/C#Projects/doWhile3/obj/Debug/net7.0/doWhile3.csproj.AssemblyReference.cache
+/Users/roccharl/C#Projects/doWhile3/obj/Debug/net7.0/doWhile3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roccharl/C#Projects/doWhile3/obj/Debug/net7.0/doWhile3.AssemblyInfoInputs.cache
+/Users/roccharl/C#Projects/doWhile3/obj/Debug/net7.0/doWhile3.AssemblyInfo.cs
+/Users/roccharl/C#Projects/doWhile3/obj/Debug/net7.0/doWhile3.csproj.CoreCompileInputs.cache
+/Users/roccharl/C#Projects/doWhile3/obj/Debug/net7.0/doWhile3.dll
+/Users/roccharl/C#Projects/doWhile3/obj/Debug/net7.0/refint/doWhile3.dll
+/Users/roccharl/C#Projects/doWhile3/obj/Debug/net7.0/doWhile3.pdb
+/Users/roccharl/C#Projects/doWhile3/obj/Debug/net7.0/doWhile3.genruntimeconfig.cache
+/Users/roccharl/C#Projects/doWhile3/obj/Debug/net7.0/ref/doWhile3.dll

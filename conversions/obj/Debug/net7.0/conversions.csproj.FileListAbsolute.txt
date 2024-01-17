@@ -1,0 +1,15 @@
+/Users/roccharl/C#Projects/conversions/bin/Debug/net7.0/conversions
+/Users/roccharl/C#Projects/conversions/bin/Debug/net7.0/conversions.deps.json
+/Users/roccharl/C#Projects/conversions/bin/Debug/net7.0/conversions.runtimeconfig.json
+/Users/roccharl/C#Projects/conversions/bin/Debug/net7.0/conversions.dll
+/Users/roccharl/C#Projects/conversions/bin/Debug/net7.0/conversions.pdb
+/Users/roccharl/C#Projects/conversions/obj/Debug/net7.0/conversions.csproj.AssemblyReference.cache
+/Users/roccharl/C#Projects/conversions/obj/Debug/net7.0/conversions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roccharl/C#Projects/conversions/obj/Debug/net7.0/conversions.AssemblyInfoInputs.cache
+/Users/roccharl/C#Projects/conversions/obj/Debug/net7.0/conversions.AssemblyInfo.cs
+/Users/roccharl/C#Projects/conversions/obj/Debug/net7.0/conversions.csproj.CoreCompileInputs.cache
+/Users/roccharl/C#Projects/conversions/obj/Debug/net7.0/conversions.dll
+/Users/roccharl/C#Projects/conversions/obj/Debug/net7.0/refint/conversions.dll
+/Users/roccharl/C#Projects/conversions/obj/Debug/net7.0/conversions.pdb
+/Users/roccharl/C#Projects/conversions/obj/Debug/net7.0/conversions.genruntimeconfig.cache
+/Users/roccharl/C#Projects/conversions/obj/Debug/net7.0/ref/conversions.dll

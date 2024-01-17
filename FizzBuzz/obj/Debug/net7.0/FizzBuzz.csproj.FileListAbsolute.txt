@@ -1,0 +1,15 @@
+/Users/roccharl/C#Projects/FizzBuzz/bin/Debug/net7.0/FizzBuzz
+/Users/roccharl/C#Projects/FizzBuzz/bin/Debug/net7.0/FizzBuzz.deps.json
+/Users/roccharl/C#Projects/FizzBuzz/bin/Debug/net7.0/FizzBuzz.runtimeconfig.json
+/Users/roccharl/C#Projects/FizzBuzz/bin/Debug/net7.0/FizzBuzz.dll
+/Users/roccharl/C#Projects/FizzBuzz/bin/Debug/net7.0/FizzBuzz.pdb
+/Users/roccharl/C#Projects/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.AssemblyReference.cache
+/Users/roccharl/C#Projects/FizzBuzz/obj/Debug/net7.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roccharl/C#Projects/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/roccharl/C#Projects/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfo.cs
+/Users/roccharl/C#Projects/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/roccharl/C#Projects/FizzBuzz/obj/Debug/net7.0/FizzBuzz.dll
+/Users/roccharl/C#Projects/FizzBuzz/obj/Debug/net7.0/refint/FizzBuzz.dll
+/Users/roccharl/C#Projects/FizzBuzz/obj/Debug/net7.0/FizzBuzz.pdb
+/Users/roccharl/C#Projects/FizzBuzz/obj/Debug/net7.0/FizzBuzz.genruntimeconfig.cache
+/Users/roccharl/C#Projects/FizzBuzz/obj/Debug/net7.0/ref/FizzBuzz.dll

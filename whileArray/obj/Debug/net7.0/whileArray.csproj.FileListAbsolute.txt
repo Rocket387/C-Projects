@@ -1,0 +1,15 @@
+/Users/roccharl/C#Projects/whileArray/bin/Debug/net7.0/whileArray
+/Users/roccharl/C#Projects/whileArray/bin/Debug/net7.0/whileArray.deps.json
+/Users/roccharl/C#Projects/whileArray/bin/Debug/net7.0/whileArray.runtimeconfig.json
+/Users/roccharl/C#Projects/whileArray/bin/Debug/net7.0/whileArray.dll
+/Users/roccharl/C#Projects/whileArray/bin/Debug/net7.0/whileArray.pdb
+/Users/roccharl/C#Projects/whileArray/obj/Debug/net7.0/whileArray.csproj.AssemblyReference.cache
+/Users/roccharl/C#Projects/whileArray/obj/Debug/net7.0/whileArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roccharl/C#Projects/whileArray/obj/Debug/net7.0/whileArray.AssemblyInfoInputs.cache
+/Users/roccharl/C#Projects/whileArray/obj/Debug/net7.0/whileArray.AssemblyInfo.cs
+/Users/roccharl/C#Projects/whileArray/obj/Debug/net7.0/whileArray.csproj.CoreCompileInputs.cache
+/Users/roccharl/C#Projects/whileArray/obj/Debug/net7.0/whileArray.dll
+/Users/roccharl/C#Projects/whileArray/obj/Debug/net7.0/refint/whileArray.dll
+/Users/roccharl/C#Projects/whileArray/obj/Debug/net7.0/whileArray.pdb
+/Users/roccharl/C#Projects/whileArray/obj/Debug/net7.0/whileArray.genruntimeconfig.cache
+/Users/roccharl/C#Projects/whileArray/obj/Debug/net7.0/ref/whileArray.dll

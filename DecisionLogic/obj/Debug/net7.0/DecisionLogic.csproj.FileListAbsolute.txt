@@ -1,0 +1,15 @@
+/Users/roccharl/C#Projects/DecisionLogic/bin/Debug/net7.0/DecisionLogic
+/Users/roccharl/C#Projects/DecisionLogic/bin/Debug/net7.0/DecisionLogic.deps.json
+/Users/roccharl/C#Projects/DecisionLogic/bin/Debug/net7.0/DecisionLogic.runtimeconfig.json
+/Users/roccharl/C#Projects/DecisionLogic/bin/Debug/net7.0/DecisionLogic.dll
+/Users/roccharl/C#Projects/DecisionLogic/bin/Debug/net7.0/DecisionLogic.pdb
+/Users/roccharl/C#Projects/DecisionLogic/obj/Debug/net7.0/DecisionLogic.csproj.AssemblyReference.cache
+/Users/roccharl/C#Projects/DecisionLogic/obj/Debug/net7.0/DecisionLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roccharl/C#Projects/DecisionLogic/obj/Debug/net7.0/DecisionLogic.AssemblyInfoInputs.cache
+/Users/roccharl/C#Projects/DecisionLogic/obj/Debug/net7.0/DecisionLogic.AssemblyInfo.cs
+/Users/roccharl/C#Projects/DecisionLogic/obj/Debug/net7.0/DecisionLogic.csproj.CoreCompileInputs.cache
+/Users/roccharl/C#Projects/DecisionLogic/obj/Debug/net7.0/DecisionLogic.dll
+/Users/roccharl/C#Projects/DecisionLogic/obj/Debug/net7.0/refint/DecisionLogic.dll
+/Users/roccharl/C#Projects/DecisionLogic/obj/Debug/net7.0/DecisionLogic.pdb
+/Users/roccharl/C#Projects/DecisionLogic/obj/Debug/net7.0/DecisionLogic.genruntimeconfig.cache
+/Users/roccharl/C#Projects/DecisionLogic/obj/Debug/net7.0/ref/DecisionLogic.dll

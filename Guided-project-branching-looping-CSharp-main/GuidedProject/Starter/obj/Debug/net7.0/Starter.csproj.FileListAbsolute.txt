@@ -1,0 +1,15 @@
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.deps.json
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.dll
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.pdb
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.csproj.AssemblyReference.cache
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.dll
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/refint/Starter.dll
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.pdb
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/Users/roccharl/C#Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/ref/Starter.dll

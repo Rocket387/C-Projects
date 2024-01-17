@@ -1,0 +1,15 @@
+/Users/roccharl/C#Projects/HelperMethods2/bin/Debug/net7.0/HelperMethods2
+/Users/roccharl/C#Projects/HelperMethods2/bin/Debug/net7.0/HelperMethods2.deps.json
+/Users/roccharl/C#Projects/HelperMethods2/bin/Debug/net7.0/HelperMethods2.runtimeconfig.json
+/Users/roccharl/C#Projects/HelperMethods2/bin/Debug/net7.0/HelperMethods2.dll
+/Users/roccharl/C#Projects/HelperMethods2/bin/Debug/net7.0/HelperMethods2.pdb
+/Users/roccharl/C#Projects/HelperMethods2/obj/Debug/net7.0/HelperMethods2.csproj.AssemblyReference.cache
+/Users/roccharl/C#Projects/HelperMethods2/obj/Debug/net7.0/HelperMethods2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roccharl/C#Projects/HelperMethods2/obj/Debug/net7.0/HelperMethods2.AssemblyInfoInputs.cache
+/Users/roccharl/C#Projects/HelperMethods2/obj/Debug/net7.0/HelperMethods2.AssemblyInfo.cs
+/Users/roccharl/C#Projects/HelperMethods2/obj/Debug/net7.0/HelperMethods2.csproj.CoreCompileInputs.cache
+/Users/roccharl/C#Projects/HelperMethods2/obj/Debug/net7.0/HelperMethods2.dll
+/Users/roccharl/C#Projects/HelperMethods2/obj/Debug/net7.0/refint/HelperMethods2.dll
+/Users/roccharl/C#Projects/HelperMethods2/obj/Debug/net7.0/HelperMethods2.pdb
+/Users/roccharl/C#Projects/HelperMethods2/obj/Debug/net7.0/HelperMethods2.genruntimeconfig.cache
+/Users/roccharl/C#Projects/HelperMethods2/obj/Debug/net7.0/ref/HelperMethods2.dll
